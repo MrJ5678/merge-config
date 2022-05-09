@@ -1,0 +1,12 @@
+{
+  "name": "merge-config",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "html-webpack-plugin": "4.4.0",
+    "webpack": "4.40.2",
+    "webpack-cli": "3.3.9",
+    "webpack-merge": "4.2.2"
+  }
+}
